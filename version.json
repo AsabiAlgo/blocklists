@@ -2,5 +2,11 @@
   "version": "2026-04-09",
   "hash": "dd2f68a06409",
   "count": 465490,
-  "updatedAt": "2026-04-09T12:41:12.923Z"
+  "updatedAt": "2026-04-09T12:41:12.923Z",
+  "whitelist": {
+    "version": "2026-04-10",
+    "hash": "957c647a6eef",
+    "count": 13073,
+    "updatedAt": "2026-04-10T13:16:00.416Z"
+  }
 }
