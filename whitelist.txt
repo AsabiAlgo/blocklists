@@ -10218,6 +10218,7 @@ shopee.tw
 shopee.vn
 shopeemobile.com
 shopier.com
+shopify.com
 shopifyapps.com
 shopifycdn.com
 shopifycloud.com
@@ -10615,6 +10616,7 @@ spzl.nl
 sqlite.org
 square.site
 squarespace-cdn.com
+squarespace.com
 squarespacedns.com
 squareup.com
 squid-cache.org
@@ -11627,6 +11629,7 @@ tukrd.com
 tum.de
 tumab.org.tr
 tumbex.com
+tumblr.com
 tunceliemek.com.tr
 tunein.com
 tuoitre.vn
@@ -12434,6 +12437,7 @@ webtoons.com
 wechat.com
 wecos.com.tr
 weebcentral.com
+weebly.com
 wefood.com.tr
 weforum.org
 wegabt.com.tr
@@ -12530,6 +12534,7 @@ wistia.net
 withbuddies.com
 withgoogle.com
 withings.net
+wix.com
 wixdns.net
 wixmp.com
 wixstatic.com
@@ -12555,6 +12560,7 @@ woocommerce.com
 word.tips
 wordfence.com
 wordplays.com
+wordpress.com
 wordpress.org
 wordreference.com
 wordstream.com
