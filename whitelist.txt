@@ -499,6 +499,7 @@ akaquill.net
 akare.com.tr
 akasripcn.net
 akbank.com.tr
+akbank.com
 akbasak.com.tr
 akbim.com.tr
 akc.org
@@ -1010,6 +1011,7 @@ asda.com
 asecza.com.tr
 aselicyapi.com.tr
 aselsan.com.tr
+aselsan.com
 ashemaletube.com
 asiaprefabrik.com.tr
 asics.com
@@ -1047,6 +1049,7 @@ asurascans.com.tr
 asus.com
 asuscomm.com
 asusturkiye.com.tr
+aselsan.com
 ataaof.edu.tr
 ataktasit.com.tr
 atam.gov.tr
@@ -1539,6 +1542,7 @@ bayinet.com.tr
 baymak.com.tr
 bayrak.com.tr
 bayrampasa.bel.tr
+baykartech.com
 bazaarvoice.com
 bazar.bg
 bazos.cz
@@ -2885,6 +2889,7 @@ cvent.com
 cvh.org.tr
 cvmaker.com.tr
 cvs.com
+cvefeed.io
 cvte.com
 cwa.gov.tw
 cwi.nl
@@ -3157,6 +3162,7 @@ diigo.com
 dijit.com.tr
 dijitalcicekci.com.tr
 dijitalim.com.tr
+dijitalsavunma.org
 diken.com.tr
 dilvin.com.tr
 dimnida.net.tr
@@ -3650,8 +3656,9 @@ elele.com.tr
 eleman.net
 elemanonline.com.tr
 elementor.com
+element.io
 elephantbet.co.mz
-elespanol.com
+elespanol.com  
 elevenlabs.io
 elfinanciero.com.mx
 elfsight.com
@@ -4235,6 +4242,7 @@ flurry.com
 flyingdragon.com.tr
 flyingtiger.com.tr
 flysleep.cn
+flypgs.com
 fmb.la
 fmkorea.com
 fmt69.com
@@ -4663,6 +4671,7 @@ globalsign.com
 globalsigncdn.com
 globaltimes.cn
 globe.com.ph
+globe.adsbexchange.com
 globenewswire.com
 globo.com
 gloria.com.tr
@@ -5150,6 +5159,7 @@ havadurumu15gunluk.org.tr
 havadurumu15gunluk.xyz
 haveibeenpwned.com
 havelsan.com.tr
+havelsan.com
 havitstore.com.tr
 havos.com.tr
 hawaii.edu
@@ -6909,6 +6919,7 @@ livestrong.com
 livetex.ru
 liveworksheets.com
 lk21official.cc
+lkd.org.tr
 llamarpc.com
 llave.gob.mx
 lloydsbank.co.uk
@@ -10237,6 +10248,8 @@ si.com
 si.edu
 siberdizayn.net.tr
 siberdizayn.org.tr
+siberkume.org.tr
+sibervatan.org
 sibforms.com
 sicnoticias.pt
 sicredi.com.br
@@ -10441,6 +10454,7 @@ snssdk.com
 so-net.ne.jp
 so.com
 socar.com.tr
+socradar.io
 soccer24.com
 soccer365.ru
 socdm.com
@@ -10828,6 +10842,7 @@ suumo.jp
 suvari.com.tr
 suwen.com.tr
 suzuki.com.tr
+sunexpress.com  
 svc.ms
 svcmot.com
 sveo.com.tr
@@ -10986,6 +11001,7 @@ tbcache.com
 tbf.org.tr
 tbmm.gov.tr
 tbs.co.jp
+tbd.org.tr
 tccb.gov.tr
 tcd.ie
 tcdd.gov.tr
@@ -11680,6 +11696,7 @@ turunchotels.com.tr
 turuncuhost.com.tr
 turuncunet.com.tr
 tuseb.gov.tr
+tusas.com
 tutsplus.com
 tuttocampo.it
 tuttojuve.com
@@ -11746,6 +11763,8 @@ typekit.net
 typepad.com
 typing.com
 typingtest.com
+tsk.tr
+tccb.tr
 u-tokyo.ac.jp
 ua.gov.tr
 uab.gov.tr
